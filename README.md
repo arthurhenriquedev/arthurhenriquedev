@@ -2,8 +2,8 @@
 <h3 align="left">Um apaixonado desenvolvedor fullstack belo-horizontino</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=intrellaris&show_icons=true&locale=en&layout=compact" alt="intrellaris" />
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intrellaris&show_icons=true&locale=en" alt="intrellaris" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=intrellaris&show_icons=true&locale=en&layout=compact" alt="intrellaris" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intrellaris&label=Profile%20views&color=0e75b6&style=flat" alt="intrellaris" /> </p>
