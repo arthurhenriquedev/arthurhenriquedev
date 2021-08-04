@@ -46,6 +46,8 @@
   <a href="https://www.reddit.com/user/intrellaris" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="reddit:arthurhenriquedev" height="30" /></a>
   <a href="mailto:arthur.henrique581@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail:arthurhenriquedev" height="30" /></a>
 </p>
-
-<h3 align="left">Support:</h3>
+  
+------
+  
+<p align="left">❤️</p>
 <p><a href="https://www.buymeacoffee.com/intrellaris"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="intrellaris" /></a></p><br><br>
