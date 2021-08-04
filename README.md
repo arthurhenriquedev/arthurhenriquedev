@@ -1,11 +1,11 @@
-<h1 align="center">Olá 👋, me chamo Arthur</h1>
-<h3 align="center">Um apaixonado desenvolvedor fullstack belo-horizontino</h3>
+<h1 align="left">Olá 👋, me chamo Arthur</h1>
+<h3 align="left">Um apaixonado desenvolvedor fullstack belo-horizontino</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intrellaris&show_icons=true&locale=en" alt="intrellaris" /></p>
+<div>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intrellaris&show_icons=true&locale=en" alt="intrellaris" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=intrellaris&" alt="intrellaris" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=intrellaris&show_icons=true&locale=en&layout=compact" alt="intrellaris" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=intrellaris&show_icons=true&locale=en&layout=compact" alt="intrellaris" /></p>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intrellaris&label=Profile%20views&color=0e75b6&style=flat" alt="intrellaris" /> </p>
 
