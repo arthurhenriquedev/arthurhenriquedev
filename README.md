@@ -42,7 +42,9 @@
 </p>
 
 <p align="left" style="display: inline-block">
-  <a href="https://linkedin.com/in/arthurhenriquedev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="arthurhenriquedev" height="30" /></a>
+  <a href="https://linkedin.com/in/arthurhenriquedev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin:arthurhenriquedev" height="30" /></a>
+  <a href="https://www.reddit.com/user/intrellaris" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="reddit:arthurhenriquedev" height="30" /></a>
+  <a href="mailto:arthur.henrique581@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail:arthurhenriquedev" height="30" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
