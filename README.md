@@ -6,7 +6,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=intrellaris&show_icons=true&locale=en&layout=compact" alt="intrellaris" />
 </p>
   
-<img align="left" height="64" width="64" src="https://share-cdn.picrew.me/shareImg/org/202108/137904_wcgOnW4w.png" alt="intrellaris" />
+<img align="left" height="148" width="148" src="https://share-cdn.picrew.me/shareImg/org/202108/137904_wcgOnW4w.png" alt="intrellaris" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
