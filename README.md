@@ -2,8 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intrellaris&label=Profile%20views&color=0e75b6&style=flat" alt="intrellaris" /> </p>
 
 <p>
-  &nbsp;<img height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=intrellaris&show_icons=true&locale=en" alt="intrellaris" />
-  <img height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=intrellaris&show_icons=true&locale=en&layout=compact" alt="intrellaris" />
+  &nbsp;<img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=intrellaris&show_icons=true&locale=en" alt="intrellaris" />
+  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=intrellaris&show_icons=true&locale=en&layout=compact" alt="intrellaris" />
 </p>
   
 <img align="right" height="148" width="148" src="https://share-cdn.picrew.me/shareImg/org/202108/137904_wcgOnW4w.png" alt="intrellaris" />
