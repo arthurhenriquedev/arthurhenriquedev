@@ -3,10 +3,10 @@
 
 <p>
   &nbsp;<img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=intrellaris&show_icons=true&locale=en" alt="intrellaris" />
-  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=intrellaris&show_icons=true&locale=en&layout=compact" alt="intrellaris" />&nbsp;
+  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=intrellaris&show_icons=true&locale=en&layout=compact" alt="intrellaris" />
 </p>
   
-<img align="right" height="148" width="148" src="https://share-cdn.picrew.me/shareImg/org/202108/137904_wcgOnW4w.png" alt="intrellaris" />
+<img align="right" height="148" width="148" src="https://imgur.com/3wozgVy" alt="intrellaris" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
