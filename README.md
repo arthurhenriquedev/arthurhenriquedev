@@ -1,5 +1,5 @@
-<h1 align="left">Olá 👋, me chamo Arthur</h1>
-<h3 align="left">Um apaixonado desenvolvedor fullstack belo-horizontino</h3>
+<h1 align="left">Olá <Desenvolvedores /> 👋</h1>
+<h3 align="left">me chamo Arthur</h3>
 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intrellaris&show_icons=true&locale=en" alt="intrellaris" />
