@@ -1,12 +1,12 @@
 ## Hello < Devs / > 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=intrellaris&label=Profile%20views&color=0e75b6&style=flat" alt="intrellaris" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurhenriquedev&label=Profile%20views&color=0e75b6&style=flat" alt="arthurhenriquedev" /> </p>
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=intrellaris&show_icons=true&locale=en" alt="intrellaris" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=intrellaris&show_icons=true&locale=en&layout=compact" alt="intrellaris" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurhenriquedev&show_icons=true&locale=en" alt="arthurhenriquedev" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurhenriquedev&show_icons=true&locale=en&layout=compact" alt="arthurhenriquedev" />
 </div>
   
-<img align="right" height="148" width="148" src="https://i.imgur.com/3wozgVy.gif" alt="intrellaris" />
+<img align="right" height="148" width="148" src="https://i.imgur.com/3wozgVy.gif" alt="arthurhenriquedev" />
 
 <p align="left">
   <a href="https://vuejs.org/" target="_blank">
