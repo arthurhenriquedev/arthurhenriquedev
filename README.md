@@ -30,16 +30,22 @@ When I'm not coding for BigBang, I'm the founder of **Omniquantics Ltda**, **QOC
 <p align="left">
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
 
 ---
 
 ### 📊 Stats & Activity
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=arthurhenriquedev&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurhenriquedev&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurhenriquedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurhenriquedev&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurhenriquedev&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" />
 </div>
 
 <img align="right" height="150" src="https://i.imgur.com/3wozgVy.gif" alt="Coding GIF" />
