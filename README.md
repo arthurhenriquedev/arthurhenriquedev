@@ -1,53 +1,54 @@
-## Hello < Devs / > 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurhenriquedev&label=Profile%20views&color=0e75b6&style=flat" alt="arthurhenriquedev" /> </p>
+# 🚀 Arthur Henrique | Full Stack Developer & Game Dev
 
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurhenriquedev&show_icons=true&locale=en" alt="arthurhenriquedev" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurhenriquedev&show_icons=true&locale=en&layout=compact" alt="arthurhenriquedev" />
-</div>
-  
-<img align="right" height="148" width="148" src="https://i.imgur.com/3wozgVy.gif" alt="arthurhenriquedev" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=arthurhenriquedev&label=Profile%20views&color=0e75b6&style=flat" alt="arthurhenriquedev" /> 
+</p>
 
+### 👨‍💻 About Me
+Currently working as a **Full Stack Developer** at **BigBang Digital**, specializing in building robust applications with **Elixir**, **Vue.js**, and **Quasar**. 
+
+When I'm not coding for BigBang, I'm the founder of **Omniquantics Ltda**, **QOC Ltda** and **South Mayo Studio**, where I develop indie games and explore cloud solutions.
+
+- 🛠 Currently mastering: **VueJS, React, NestJS, and Unity**.
+- 🎮 Active Projects: **Link Lion** (Infinite Runner) and **Sumo Falls**.
+- 🎹 Side Project: Creator of **Ambient Scenarios** (AI-driven concentration music).
+
+---
+
+### 🛠 Tech Stack & Tools
+
+**Backend & Infrastructure**
 <p align="left">
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/elixir-%234e2a8e.svg?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-<p align="left" style="display: inline-block">
-  <a href="https://linkedin.com/in/arthurhenriquedev" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin:arthurhenriquedev" height="30" /></a>
-  <a href="https://www.reddit.com/user/intrellaris" target="_blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="reddit:arthurhenriquedev" height="30" /></a>
-  <a href="mailto:arthur.henrique581@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail:arthurhenriquedev" height="30" /></a>
+**Frontend & Game Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar" />
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
-  
-------
-  
-<p align="left">❤️</p>
-<p><a href="https://www.buymeacoffee.com/intrellaris"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="intrellaris" /></a></p><br><br>
+
+---
+
+### 📊 Stats & Activity
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=arthurhenriquedev&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurhenriquedev&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />
+</div>
+
+<img align="right" height="150" src="https://i.imgur.com/3wozgVy.gif" alt="Coding GIF" />
+
+---
+
+### 📫 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/arthurhenriquedev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:arthur.henrique581@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.buymeacoffee.com/intrellaris" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+</p>
